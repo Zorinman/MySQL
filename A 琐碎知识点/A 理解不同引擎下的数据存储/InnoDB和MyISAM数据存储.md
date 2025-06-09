@@ -19,7 +19,7 @@
 `student_myisam.MYD`:
 .MYD文件是MyISAM存储引擎表的所有行数据的文件
 `student_myisam.MYI`:
-.MYI文件存放的是MyISAM存储引擎表的索引相关数据的文件
+.MYI文件存放的是MyISAM存储引擎表的索引信息
 总之，我们可以简单的得出结论，MyISAM引擎下，表数据和表索引数据是分开存储的。
 
 # (三) 总结
